@@ -26,5 +26,3 @@ Python (Jupyter Notebook), API
 * Lat vs Wind Speed<br>
 <img src="Png/Lat vs Wind Speed.png"><br>
 
-## Extra
-API key needs to be used to fetch data from data source. API key can be obtained by signing up an account on the [OpenWeatherMap API](https://openweathermap.org/api).
