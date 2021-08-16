@@ -28,6 +28,3 @@ Python (Jupyter Notebook), API
 
 ## Extra
 API key needs to be used to fetch data from data source. API key can be obtained by signing up an account on the [OpenWeatherMap API](https://openweathermap.org/api).
-
-## Contact
-Email: xinlianghuang85@gmail.com
